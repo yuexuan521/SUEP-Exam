@@ -1,4 +1,4 @@
-# 上海电力大学专升本考试 Q&A
+# 上海电力大学专升本考试FAQ
 
 ![](https://cdn.jsdelivr.net/gh/yuexuan521/image/202512042106924.png)
 
