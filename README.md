@@ -1,6 +1,6 @@
 # 上海电力大学专升本考试 Q&A
 
-[](![](https://cdn.jsdelivr.net/gh/yuexuan521/image/202512042106924.png))
+![](https://cdn.jsdelivr.net/gh/yuexuan521/image/202512042106924.png)
 
 > 2025届考生情况，如有出入，以当年实际情况为准。
 >
@@ -79,10 +79,11 @@
 
 ---
 
+*闲谈*
 
 > “不知道能不能及格”
 
-[](![](https://cdn.jsdelivr.net/gh/yuexuan521/image/202512042115651.jpg))
+![](https://cdn.jsdelivr.net/gh/yuexuan521/image/202512042115651.jpg)
 
 >人生易老天难老，岁岁重阳。今又重阳，战地黄花分外香。
 >
