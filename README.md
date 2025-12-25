@@ -2,7 +2,7 @@
 
 # ⚡️ 上海电力大学专升本考试复习资料 (SUEP-Exam)
 
-[![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-red.svg)](./LICENSE)](./LICENSE)
+[![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-red.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yuexuan521/SUEP-Exam/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/yuexuan521/SUEP-Exam)](https://github.com/yuexuan521/SUEP-Exam/stargazers)
 
