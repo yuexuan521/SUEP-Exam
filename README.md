@@ -2,7 +2,7 @@
 
 # ⚡️ 上海电力大学专升本考试复习资料 (SUEP-Exam)
 
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+[![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-red.svg)](./LICENSE)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yuexuan521/SUEP-Exam/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/yuexuan521/SUEP-Exam)](https://github.com/yuexuan521/SUEP-Exam/stargazers)
 
@@ -78,3 +78,10 @@
 ### 联系方式
 
 如果有问题想要咨询我的话，请发邮件至：yuexuan521@gmail.com，我会在每周一查看邮箱。
+
+## 📜 许可证 | License
+
+本仓库采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议进行授权。
+转载或引用请注明出处，**严禁用于任何商业用途**。
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
